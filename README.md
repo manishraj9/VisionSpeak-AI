@@ -147,6 +147,9 @@ Audio Playback & Download
 ```
 
 ---
+<img width="781" height="301" alt="system-design drawio" src="https://github.com/user-attachments/assets/0db66890-c938-4fac-86a3-d3e78a568194" />
+
+
 
 ## 📌 Future Improvements
 
