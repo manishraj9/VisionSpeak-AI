@@ -1,7 +1,5 @@
-transformers
-torch
-langchain
-openai
-python-dotenv
-requests
 streamlit
+google-genai
+python-dotenv
+gTTS
+Pillow
