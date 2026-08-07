@@ -101,6 +101,24 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
+<img width="1919" height="875" alt="Screenshot 2026-08-08 004208" src="https://github.com/user-attachments/assets/ce2527af-fec3-4341-8e77-a9a0a6c589a5" />
+<img width="1917" height="878" alt="Screenshot 2026-08-08 004235" src="https://github.com/user-attachments/assets/2de587d5-83a2-4078-a16a-623ad16dd5a9" />
+<img width="1919" height="875" alt="Screenshot 2026-08-08 004308" src="https://github.com/user-attachments/assets/1355b854-d47a-4764-b737-13455e07d553" />
+
+<img width="1910" height="873" alt="Screenshot 2026-08-08 005813" src="https://github.com/user-attachments/assets/19c6341c-5ccc-4326-bf30-050ea0d42463" />
+
+<img width="1917" height="877" alt="Screenshot 2026-08-08 012216" src="https://github.com/user-attachments/assets/d2e4e73a-064b-4e73-8dec-3cc0e013757d" />
+
+<img width="745" height="713" alt="Screenshot 2026-08-08 012248" src="https://github.com/user-attachments/assets/96346ba7-1214-4094-a581-3cfaaaa73f29" />
+
+
+
+
+
+
+
+
+
 ### Home Page
 
 <img src="audio-img/app-snapshot.jpg" width="900">
